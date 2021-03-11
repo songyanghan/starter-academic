@@ -51,6 +51,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/songyanghan
+# - icon: cv
+#   icon_pack: ai
+#   link: media/resume.pdf
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -68,4 +71,4 @@ highlight_name: false
 
 I am currently a third-year PhD student in computer science and engineering supervised by Prof. Fei Miao. My current research interests include autonomous driving, machine learning, optimization, and control theory.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
