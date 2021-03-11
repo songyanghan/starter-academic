@@ -8,7 +8,7 @@ headless: true
 
 # Order that this section appears on the page.
 weight: 30
-active = false  # Activate this widget? true/false
+active: false  # Activate this widget? true/false
 
 title: Skills
 subtitle:
