@@ -22,24 +22,29 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+  - title: Research assistant
+    company: University of Connecticut
+    company_url: 'http://feimiao.org/index.html'
+    location: Storrs, USA
+    date_start: '2018-08'
     date_end: ''
     description: |2-
-        Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Design an algorithm to exploit the advantages raised by the extended sensing capability of connected autonomous vehicles (CAVs) through beneficial information sharing.
+        * Analyze quantum key distribution protocols through a game theoretic framework to show improved noise tolerance and secure communication rate assuming adversaries are “rational”.
+        * Design a feedback deep Q-learning algorithm for a hybrid system to explore a policy for discrete state transitions while ensuring the safety of both discrete and continuous dynamics in training.
+        * Design an integrated information sharing and feedback DRL framework for the behavior planning of connected autonomous vehicles to improve traffic efficiency and safety.
+        * Design an algorithm to solve the mixed objective robust multi-agent RL problem to alleviate the non-stationary environment considering an uncertainty set of training partners’ policy uncertainty.
         
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Research assistant
+    company: University of Michigan-Shanghai Jiao Tong University Joint Institute
+    company_url: 'http://umji.sjtu.edu.cn/lab/dsc/'
+    location: Shanghai, China
+    date_start: '2015-09'
+    date_end: '2018-03'
+    description: |2-
+        
+        * Design a flexible energy management approach to handle the uncertainties of weather and sizing in an isolated microgrid, which would not be influenced dramatically by different weather conditions.
+        * Design and fabricate high efficient bidirectional DC/DC converters to conduct and validate energy management approaches in a downsized system.
+        * Build a hardware testbed to study reconfigurable energy systems.
 ---
