@@ -3,7 +3,7 @@ title: Learning and Control for Connected Autonomous Vehicles
 date: 2021-03-12T03:13:15.325Z
 draft: false
 featured: false
-external_link: https://ctsrc.uconn.edu/
+external_link: []
 links: []
 image:
   filename: cav.jpg
