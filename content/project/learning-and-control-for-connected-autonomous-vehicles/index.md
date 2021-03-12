@@ -6,7 +6,7 @@ featured: false
 external_link: https://ctsrc.uconn.edu/
 links: []
 image:
-  filename: featured
+  filename: cav.jpg
   focal_point: Smart
   preview_only: false
 ---
