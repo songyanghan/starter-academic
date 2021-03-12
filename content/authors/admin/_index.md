@@ -69,4 +69,4 @@ email: ""
 highlight_name: false
 ---
 
-I am currently a third-year PhD student in computer science and engineering supervised by Prof. Fei Miao. My current research interests include autonomous driving, machine learning, optimization, and control theory.
+I am currently a third-year PhD student in computer science and engineering supervised by Prof. [Fei Miao](http://feimiao.org). My current research interests include autonomous driving, machine learning, optimization, and control theory.
