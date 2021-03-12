@@ -19,6 +19,6 @@ image:
   focal_point: Smart
   preview_only: false
   
-url_pdf: example.pdf
+url_pdf: 'example.pdf'
 
 ---
