@@ -1,24 +1,26 @@
 ---
-title: "A Game Theoretic Security Framework for Quantum Cryptography: Performance Analysis and Application"
+title: "Tunable Class E2 DC–DC Converter With High Efficiency and Stable Output Power for 6.78-MHz Wireless Power Transfer"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Shuangke Liu
+- Ming Liu
 - admin
-- Walter O. Krawec
-- Fei Miao
+- Xinen Zhu
+- Chengbin Ma
 
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2020-09-01T00:00:00Z"
+date: "2018-12-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-09-01T00:00:00Z"
+publishDate: "2018-12-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,10 +29,10 @@ publishDate: "2020-09-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Quantum Information Processing *
-# publication_short: In *Quantum Inf. Process*
+publication: In *IEEE Transactions on Power Electronics  *
+# publication_short: In *CDC*
 
-abstract: In this paper, we analyze quantum key distribution (QKD) protocols through a game- theoretic framework. In particular, we assume parties and adversaries are “rational.” Unlike other game theoretic models, we show how important key-rate and noise tol- erance computations may be performed through our system allowing for interesting comparisons to the “standard adversarial model” of QKD. We show that, depending on the relative cost of operating devices, increased noise tolerance and improved secure communication rates are possible if one assumes adversaries are rational as opposed to being malicious.
+abstract: Class E 2 DC-DC converter composed of Class E power amplifier (PA) and rectifier is a promising candidate for MHz wireless power transfer. It is soft-switching based and able to achieve high efficiency at MHz frequency. However, the converter implemented through traditional static design is sensitive to the variations of operation condition. Its performance gets deteriorated when DC load and coil coupling deviate from their respective optimum values. This paper demonstrates that the degradation of system efficiency is mostly due to the mismatch of PA load, and the efficiency drop can be efficiently improved by adding an L-type impedance matching network (IMN) after PA. A fixed IMN is sufficient to maintain a high efficiency, while a tunable IMN is required to ensure stable output power when operation condition dramatically changes. Key techniques, particularly system-level optimization, are discussed in this paper that ensure high efficiency over a wide range of variation in operation condition and also with reduced capacitor/inductor tuning ranges in the IMN. The 6.78-MHz Class E 2 DC-DC converters with and without the fixed/tunable IMN are fabricated and measured for validation purposes. The experimental results show that both high efficiency (>66%) and stable output power (around 9 W) are maintained for the tunable converter when there are variations in the DC load and coil coupling.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -66,8 +68,8 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- game-theoretic-security-framework-for-quantum-cryptography
+projects: []
+# - learning-and-control-for-connected-autonomous-vehicles
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
