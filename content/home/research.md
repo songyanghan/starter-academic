@@ -27,8 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Autonomous Driving
+    tag: Autonomous Driving
   - name: Other
     tag: Demo
 
