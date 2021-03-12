@@ -5,7 +5,7 @@
 
 title: "Songyang Han" # Website name
 baseurl: 'https://songyanghan.netlify.app' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Songyang Han' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
