@@ -69,4 +69,4 @@ email: ""
 highlight_name: false
 ---
 
-I am currently a third-year PhD student in computer science and engineering supervised by Prof. [Fei Miao](http://feimiao.org). My current research interests include autonomous driving, machine learning, optimization, and control theory.
+I am currently a third-year PhD student in computer science and engineering supervised by Prof. [Fei Miao](http://feimiao.org). I was working on game theoretic energy management approaches in [Dynamic Systems Control Lab](https://sites.ji.sjtu.edu.cn/dsc/) in University of Michigan-Shanghai Jiao Tong University Joint Institute supervised by Prof. [Chengbin Ma](https://sites.ji.sjtu.edu.cn/dsc/professor/). My current research interests include robust and scalable multi-agent reinforcement learning, autonomous driving, game theory, optimization, and control theory.
