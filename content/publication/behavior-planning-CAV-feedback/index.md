@@ -29,8 +29,7 @@ publication_types: ["3"]
 # publication: In *Quantum Information Processing *
 publication_short: In *arXiv*
 
-abstract: With the development of communication technologies, con- nected autonomous vehicles (CAVs) can share information with each other. We propose a novel behavior planning method for CAVs to decide actions such as whether to change lane or keep lane based on the observation and shared in- formation from neighbors, and to make sure that there ex- ist corresponding control maneuvers such as acceleration and steering angle to guarantee the safety of each individual au- tonomous vehicle. We formulate this problem as a hybrid partially observable Markov decision process (HPOMDP) to consider objectives such as improving traffic flow efficiency and driving comfort and safety requirements. The discrete state transition is determined by the proposed feedback deep Q-learning algorithm using the feedback action from an un- derlying controller based on control barrier functions. The feedback deep Q-learning algorithm we design aims to solve the critical challenge of reinforcement learning (RL) in a physical system: guaranteeing the safety of the system while the RL is exploring the action space to increase the reward. We prove that our method renders a forward invariant safe set for the continuous state physical dynamic model of the sys- tem while the RL agent is learning. In experiments, our be- havior planning method can increase traffic flow and driving comfort compared with the intelligent driving model (IDM). We also validate that our method maintains safety during the learning process.
-
+abstract:
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
