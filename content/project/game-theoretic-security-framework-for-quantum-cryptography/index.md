@@ -3,7 +3,7 @@ title: Game Theoretic Security Framework for Quantum Cryptography
 date: 2021-03-12T03:32:15.998Z
 draft: false
 featured: false
-external_link: '""'
+external_link: ""
 image:
   filename: featured
   focal_point: Smart
