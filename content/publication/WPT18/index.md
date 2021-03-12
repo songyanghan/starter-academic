@@ -30,7 +30,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *IEEE Transactions on Power Electronics  *
-# publication_short: In *CDC*
+publication_short: In *IEEE Transactions on Power Electronics*
 
 abstract: Class E 2 DC-DC converter composed of Class E power amplifier (PA) and rectifier is a promising candidate for MHz wireless power transfer. It is soft-switching based and able to achieve high efficiency at MHz frequency. However, the converter implemented through traditional static design is sensitive to the variations of operation condition. Its performance gets deteriorated when DC load and coil coupling deviate from their respective optimum values. This paper demonstrates that the degradation of system efficiency is mostly due to the mismatch of PA load, and the efficiency drop can be efficiently improved by adding an L-type impedance matching network (IMN) after PA. A fixed IMN is sufficient to maintain a high efficiency, while a tunable IMN is required to ensure stable output power when operation condition dramatically changes. Key techniques, particularly system-level optimization, are discussed in this paper that ensure high efficiency over a wide range of variation in operation condition and also with reduced capacitor/inductor tuning ranges in the IMN. The 6.78-MHz Class E 2 DC-DC converters with and without the fixed/tunable IMN are fabricated and measured for validation purposes. The experimental results show that both high efficiency (>66%) and stable output power (around 9 W) are maintained for the tunable converter when there are variations in the DC load and coil coupling.
 

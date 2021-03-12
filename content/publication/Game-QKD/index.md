@@ -28,7 +28,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Quantum Information Processing *
-# publication_short: In *Quantum Inf. Process*
+publication_short: In *Quantum Information Processing*
 
 abstract: In this paper, we analyze quantum key distribution (QKD) protocols through a game- theoretic framework. In particular, we assume parties and adversaries are “rational.” Unlike other game theoretic models, we show how important key-rate and noise tol- erance computations may be performed through our system allowing for interesting comparisons to the “standard adversarial model” of QKD. We show that, depending on the relative cost of operating devices, increased noise tolerance and improved secure communication rates are possible if one assumes adversaries are rational as opposed to being malicious.
 
