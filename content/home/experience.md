@@ -46,7 +46,7 @@ experience:
         
         * Summarize exiting reinforcement learning methods and the state-of-art deep learning methods used in autonomous driving.
         * Write a design document for single and multi-agent RL, distributed learning, algorithm architecture and interface, and a prototype design.
-        * Implement RL algorithms for autonomous vehicle’s planning in the Apollo platform.
+        * Implement RL algorithms for autonomous vehicle’s planning on the Apollo platform.
         
   - title: Research assistant
     company: University of Michigan-Shanghai Jiao Tong University Joint Institute
