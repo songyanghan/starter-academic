@@ -25,7 +25,7 @@ experience:
   - title: Research assistant
     company: University of Connecticut
     company_url: 'http://feimiao.org/index.html'
-    location: Storrs, USA
+    location: Storrs, CT, USA
     date_start: '2018-08'
     date_end: ''
     description: |2-
@@ -35,6 +35,18 @@ experience:
         * Design a feedback deep Q-learning algorithm for a hybrid system to explore a policy for discrete state transitions while ensuring the safety of both discrete and continuous dynamics in training.
         * Design an integrated information sharing and feedback DRL framework for the behavior planning of connected autonomous vehicles to improve traffic efficiency and safety.
         * Design an algorithm to solve the mixed objective robust multi-agent RL problem to alleviate the non-stationary environment considering an uncertainty set of training partners’ policy uncertainty.
+
+  - title: Research internship
+    company: Baidu USA Apollo team
+    company_url: ''
+    location: Sunnyvale, CA, USA
+    date_start: '2020-05'
+    date_end: '2020-08'
+    description: |2-
+        
+        * Summarize exiting reinforcement learning methods and the state-of-art deep learning methods used in autonomous driving.
+        * Write a design document for single and multi-agent RL, distributed learning, algorithm architecture and interface, and a prototype design.
+        * Implement RL algorithms for autonomous vehicle’s planning in the Apollo platform.
         
   - title: Research assistant
     company: University of Michigan-Shanghai Jiao Tong University Joint Institute
