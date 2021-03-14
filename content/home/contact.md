@@ -27,4 +27,6 @@ content:
   
 design:
   columns: '2'
+  
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=h-dwoW9aHu1vfpM3DB0l4x6qbOCam8lm7N_LIC4YTGw&cl=ffffff&w=a"></script>
 ---
