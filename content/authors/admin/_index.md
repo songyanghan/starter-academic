@@ -29,13 +29,13 @@ education:
   courses:
   - course: PhD in Computer Science and Engineering
     institution: University of Connecticut
-    year: 2018
+    year: 2022(expected)
   - course: MS in Electrical and Computer Engineering
     institution: Shanghai Jiao Tong University
-    year: 2015
+    year: 2018
   - course: BEng in Automation
     institution: Nanjing University
-    year: 2011
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
