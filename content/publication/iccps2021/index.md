@@ -49,7 +49,7 @@ title: "DeResolver: A Decentralized Negotiation and Conflict Resolution
 tags: []
 projects:
   - learning-and-control-for-connected-autonomous-vehicles
-publishDate: 2021-12-01T00:00:00.000Z
+publishDate: 2021-1-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: ""
