@@ -42,14 +42,14 @@ url_source: ""
 url_video: ""
 publication: In *12th ACM/IEEE International Conference on Cyber-Physical Systems*
 featured: false
-date: 2021-12-01T00:00:00Z
+date: 2021-05-03T20:44:47.294Z
 url_slides: ""
 title: "DeResolver: A Decentralized Negotiation and Conflict Resolution
   Framework for Smart City Services"
 tags: []
 projects:
   - learning-and-control-for-connected-autonomous-vehicles
-publishDate: 2021-12-01T00:00:00Z
+publishDate: 2021-12-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: ""
