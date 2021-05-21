@@ -37,7 +37,7 @@ abstract: "As various smart services are increasingly deployed in modern cities,
 url_pdf: ""
 url_dataset: ""
 url_project: ""
-publication_short: In *ICCPS (Best paper award finalist)*
+publication_short: In *ICCPS (Best paper award)*
 url_source: ""
 url_video: ""
 publication: In *12th ACM/IEEE International Conference on Cyber-Physical Systems*
