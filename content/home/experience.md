@@ -32,9 +32,10 @@ experience:
         
         * Design an algorithm to exploit the advantages raised by the extended sensing capability of connected autonomous vehicles (CAVs) through beneficial information sharing.
         * Analyze quantum key distribution protocols through a game theoretic framework to show improved noise tolerance and secure communication rate assuming adversaries are “rational”.
-        * Design a feedback deep Q-learning algorithm for a hybrid system to explore a policy for discrete state transitions while ensuring the safety of both discrete and continuous dynamics in training.
-        * Design an integrated information sharing and feedback DRL framework for the behavior planning of connected autonomous vehicles to improve traffic efficiency and safety.
-        * Design an algorithm to solve the mixed objective robust multi-agent RL problem to alleviate the non-stationary environment considering an uncertainty set of training partners’ policy uncertainty.
+        * Design an integrated information sharing and multi-agent reinforcement learning framework for the behavior planning of connected autonomous vehicles to improve traffic efficiency and safety.
+        * Study the fundamental properties of the robust multi-agent RL problem under adversarial state perturbations. We define the concept of robust perfect Nash equilibrium and prove its existence.
+        * Design a stable and efficient reward reallocation algorithm to motivate cooperation for multi-agent reinforcement learning assuming all agents are self-interested.
+
 
   - title: Research internship
     company: Baidu USA Apollo team
