@@ -29,13 +29,6 @@ experience:
     date_start: '2018-08-20'
     date_end: ''
     description: |2-
-        
-<!--         * Design an algorithm to exploit the advantages raised by the extended sensing capability of connected autonomous vehicles (CAVs) through beneficial information sharing.
-        * Analyze quantum key distribution protocols through a game theoretic framework to show improved noise tolerance and secure communication rate assuming adversaries are “rational”.
-        * Design an integrated information sharing and multi-agent reinforcement learning framework for the behavior planning of connected autonomous vehicles to improve traffic efficiency and safety.
-        * Study the fundamental properties of the robust multi-agent RL problem under adversarial state perturbations. We define the concept of robust perfect Nash equilibrium and prove its existence.
-        * Design a stable and efficient reward reallocation algorithm to motivate cooperation for multi-agent reinforcement learning assuming all agents are self-interested. -->
-
 
   - title: Research internship
     company: Baidu USA Apollo team
@@ -45,10 +38,6 @@ experience:
     date_end: '2020-08-31'
     description: |2-
         
-<!--         * Summarize exiting reinforcement learning methods and the state-of-art deep learning methods used in autonomous driving.
-        * Write a design document for single and multi-agent RL, distributed learning, algorithm architecture and interface, and a prototype design.
-        * Implement RL algorithms for autonomous vehicle’s planning on the Apollo platform. -->
-        
   - title: Research assistant
     company: University of Michigan-Shanghai Jiao Tong University Joint Institute
     company_url: 'http://umji.sjtu.edu.cn/lab/dsc/'
@@ -57,7 +46,4 @@ experience:
     date_end: '2018-03-31'
     description: |2-
         
-<!--         * Design a flexible energy management approach to handle the uncertainties of weather and sizing in an isolated microgrid, which would not be influenced dramatically by different weather conditions.
-        * Design and fabricate high efficient bidirectional DC/DC converters to conduct and validate energy management approaches in a downsized system.
-        * Build a hardware testbed to study reconfigurable energy systems. -->
 ---
