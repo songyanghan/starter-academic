@@ -75,4 +75,4 @@ My current research interests include robust and scalable multi-agent reinforcem
 
 ## News
 * [2022/2] Our paper "Stable and Efficient Shapley Value-Based Reward Reallocation for Multi-Agent Reinforcement Learning of Autonomous Vehicles" is accepted in 2022 IEEE International Conference on Robotics and Automation (ICRA), Philadelphia, USA, May 2022. 
-* [2022/3] I get the second place award in the 8th annual graduate poster competition hosted by the School of Engineering of University of Connecticut. 
+* [2022/3] I get the second place award in the 8th annual graduate poster competition hosted by the School of Engineering of University of Connecticut. I also get the first place award in the Computer Science and Engineering Department.
