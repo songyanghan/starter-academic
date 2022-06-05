@@ -36,7 +36,7 @@ url_source: ""
 url_video: ""
 title: Stable and Efﬁcient Shapley Value-Based Reward Reallocation for
   Multi-Agent Reinforcement Learning of Autonomous Vehicles
-featured: true
+featured: false
 tags: []
 projects:
   - learning-and-control-for-connected-autonomous-vehicles
