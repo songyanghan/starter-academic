@@ -1,40 +1,27 @@
 ---
 publication_types:
-  - "3"
+  - "5"
 authors:
   - admin
+  - He Wang
+  - Sanbao Su
+  - Yuanyuan Shi
   - Fei Miao
-abstract: "We propose a novel hybrid system behavior planning method for
-  connected autonomous vehicles (CAVs) to utilize shared information to decide
-  actions such as whether to change lane or keep lane, and to make sure that
-  there exist corresponding control maneuvers such as acceleration and steering
-  angle to guarantee safety. We formulate this problem as a hybrid system
-  partially observable Markov decision process to consider objectives such as
-  improving traffic flow efficiency, driving comfort and safety requirements.
-  The feedback deep Q-learning algorithm we design aims to solve the critical
-  challenge of reinforcement learning (RL) for a hybrid system model:
-  guaranteeing the safety of the dynamic system while the RL is exploring the
-  action space to increase the reward. We prove that our method renders a
-  forward invariant safe set for the continuous state space physical system
-  dynamic model while the RL agent is learning in discrete action space. In
-  experiments, our behavior planning method can increase traffic flow and
-  driving comfort of CAVs compared with the literature. We also validate that
-  our method maintains safety during the learning process."
+abstract: "With the development of sensing and communication technologies in networked cyber-physical systems (CPSs), multi-agent reinforcement learning (MARL)-based methodologies are integrated into the control process of physical systems and demonstrate prominent performance in a wide array of CPS domains, such as connected autonomous vehicles (CAVs). However, it remains challenging to mathematically characterize the improvement of the performance of CAVs with communication and cooperation capability. When each individual autonomous vehicle is originally self-interest, we can not assume that all agents would cooperate naturally during the training process. In this work, we propose to reallocate the system’s total reward efﬁciently to motivate stable cooperation among autonomous vehicles. We formally deﬁne and quantify how to reallocate the system’s total reward to each agent under the proposed transferable utility game, such that communicationbased cooperation among multi-agents increases the system’s total reward. We prove that Shapley value-based reward reallocation of MARL locates in the core if the transferable utility game is a convex game. Hence, the cooperation is stable and efﬁcient and the agents should stay in the coalition or the cooperating group. We then propose a cooperative policy learning algorithm with Shapley value reward reallocation. In experiments, compared with several literature algorithms, we show the improvement of the mean episode system reward of CAV systems using our proposed algorithm."
 url_pdf: ""
 url_dataset: ""
 url_project: ""
-publication_short: In *arXiv*
+publication_short: In ICRA 2022
 url_source: ""
 url_video: ""
-title: Behavior Planning For Connected Autonomous Vehicles Using Feedback Deep
-  Reinforcement Learning
+title: Stable and Efﬁcient Shapley Value-Based Reward Reallocation for Multi-Agent Reinforcement Learning of Autonomous Vehicles
 featured: false
 tags: []
 projects:
   - learning-and-control-for-connected-autonomous-vehicles
-date: 2020-09-01T00:00:00Z
+date: 2022-05-22T00:00:00Z
 url_slides: ""
-publishDate: 2020-09-01T00:00:00Z
+publishDate: 2022-05-22T00:00:00Z
 url_poster: ""
 url_code: ""
 doi: ""
