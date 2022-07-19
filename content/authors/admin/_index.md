@@ -6,7 +6,7 @@ title: Songyang Han
 superuser: true
 
 # Role/position/tagline
-role: PhD student
+role: PhD student | Computer Science and Engineering | Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,11 +18,13 @@ bio: My research interests include multi-agent reinforcement learning, connected
 
 # Interests to show in About widget
 interests:
+- Artificial Intelligence
+- Machine learning
 - Reinforcement learning
 - Autonomous driving
 - Game theory
-- Optimization
-- Optimal control
+# - Optimization
+# - Optimal control
 
 # Education to show in About widget
 education:
@@ -51,6 +53,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/songyanghan
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/songyanghan/
 - icon: cv
   icon_pack: ai
   link: media/resume.pdf
@@ -63,17 +68,17 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "hansongyang@outlook.com"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
-I am currently a fourth-year PhD student in computer science and engineering supervised by Prof. [Fei Miao](http://feimiao.org) at University of Connecticut. I was working on game theoretic energy management approaches in [Dynamic Systems Control Lab](https://sites.ji.sjtu.edu.cn/dsc/) in University of Michigan-Shanghai Jiao Tong University Joint Institute supervised by Prof. [Chengbin Ma](https://sites.ji.sjtu.edu.cn/dsc/professor/). 
+I am currently a fourth-year PhD student in computer science and engineering working on artificial intelligence supervised by Prof. [Fei Miao](http://feimiao.org) at University of Connecticut. I was working on game theoretic energy management approaches in [Dynamic Systems Control Lab](https://sites.ji.sjtu.edu.cn/dsc/) in University of Michigan-Shanghai Jiao Tong University Joint Institute supervised by Prof. [Chengbin Ma](https://sites.ji.sjtu.edu.cn/dsc/professor/). 
 
-My current research interests include robust and scalable multi-agent reinforcement learning, autonomous driving, game theory, optimization, and control theory.
+My current research interests include robust and scalable multi-agent reinforcement learning, artificial intelligence, machine learning, autonomous driving, and game theory.
 
 ## News
-* [2022/2] Our paper "Stable and Efficient Shapley Value-Based Reward Reallocation for Multi-Agent Reinforcement Learning of Autonomous Vehicles" is accepted by the 2022 IEEE International Conference on Robotics and Automation (ICRA), Philadelphia, USA, May 2022. 
+* [2022/5] Our paper "Stable and Efficient Shapley Value-Based Reward Reallocation for Multi-Agent Reinforcement Learning of Autonomous Vehicles" is presented on the 2022 IEEE International Conference on Robotics and Automation (ICRA), Philadelphia, USA, May 2022. 
 * [2022/3] I get the second place award in the 8th annual graduate poster competition hosted by the School of Engineering of University of Connecticut. I also get the first place award in the Computer Science and Engineering Department.
-* [2022/3] Our paper "DeResolver: A Decentralized Negotiation and Conflict Resolution Framework for Smart City Services"(extension of ICCPS 2021 paper) is accepted by ACM Transactions on Cyber-Physical Systems.
+* [2022/3] Our paper "DeResolver: A Decentralized Negotiation and Conflict Resolution Framework for Smart City Services" is accepted by ACM Transactions on Cyber-Physical Systems.
