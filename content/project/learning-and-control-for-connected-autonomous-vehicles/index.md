@@ -1,5 +1,5 @@
 ---
-title: Learning and Control for Connected Autonomous Vehicles
+title: Multi-Agent Reinforcement Learning for Connected Autonomous Vehicles
 date: 2021-03-12T03:13:15.325Z
 tags:
 - Autonomous Driving
