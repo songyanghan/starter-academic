@@ -19,8 +19,8 @@ bio: My research interests include multi-agent reinforcement learning, connected
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
-- Machine learning
 - Reinforcement learning
+- Deep learning
 - Autonomous driving
 - Game theory
 # - Optimization
@@ -76,7 +76,7 @@ highlight_name: true
 
 I am currently a fourth-year PhD student in computer science and engineering working on artificial intelligence supervised by Prof. [Fei Miao](http://feimiao.org) at University of Connecticut. I was working on game theoretic energy management approaches in [Dynamic Systems Control Lab](https://sites.ji.sjtu.edu.cn/dsc/) in University of Michigan-Shanghai Jiao Tong University Joint Institute supervised by Prof. [Chengbin Ma](https://sites.ji.sjtu.edu.cn/dsc/professor/). 
 
-My current research interests include robust and scalable multi-agent reinforcement learning, artificial intelligence, machine learning, autonomous driving, and game theory.
+My current research interests include robust and scalable multi-agent reinforcement learning, artificial intelligence, deep learning, autonomous driving, computer vision, and game theory.
 
 ## News
 * [2022/5] Our paper "Stable and Efficient Shapley Value-Based Reward Reallocation for Multi-Agent Reinforcement Learning of Autonomous Vehicles" is presented on the 2022 IEEE International Conference on Robotics and Automation (ICRA), Philadelphia, USA, May 2022. 
