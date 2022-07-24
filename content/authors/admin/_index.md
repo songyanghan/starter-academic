@@ -79,6 +79,7 @@ I am currently a fourth-year PhD student in computer science and engineering wor
 My current research interests include robust and scalable multi-agent reinforcement learning, artificial intelligence, deep learning, autonomous driving, computer vision, and game theory.
 
 ## News
+* [2022/7] Our paper "Towards Safe Autonomy in Hybrid Traffic: The Power of Information Sharing in Detecting Abnormal Human Drivers Behaviors" is presented in the AI4TS workshop at the 31st International Joint Conference On Artificial Intelligence (IJCAI 2022).
 * [2022/7] Our paper "DeResolver: A Decentralized Negotiation and Conflict Resolution Framework for Smart City Services" is accepted by ACM Transactions on Cyber-Physical Systems. (available online)
 * [2022/5] Our paper "Stable and Efficient Shapley Value-Based Reward Reallocation for Multi-Agent Reinforcement Learning of Autonomous Vehicles" is presented on the 2022 IEEE International Conference on Robotics and Automation (ICRA), Philadelphia, USA, May 2022. 
 * [2022/3] I get the second place award in the 8th annual graduate poster competition hosted by the School of Engineering of University of Connecticut. I also get the first place award in the Computer Science and Engineering Department.
