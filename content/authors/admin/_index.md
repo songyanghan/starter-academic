@@ -22,6 +22,7 @@ interests:
 - Reinforcement learning
 - Deep learning
 - Autonomous driving
+- Computer vision
 - Game theory
 # - Optimization
 # - Optimal control
