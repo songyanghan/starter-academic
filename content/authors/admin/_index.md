@@ -80,7 +80,8 @@ I am currently a fourth-year PhD student in computer science and engineering wor
 My current research interests include robust and scalable multi-agent reinforcement learning, artificial intelligence, deep learning, autonomous driving, computer vision, and game theory.
 
 ## News
-* [2022/8] I get the General Electric (GE) fellowship of excellence. The GE Fellowship for Excellence program is established to recognize excellence of current graduate students and to facilitate their completion of the Ph.D. program. The duration of the award is one academic year.
+* [2022/9] Our paper "A Multi-Agent Reinforcement Learning Approach For Safe and Efficient Behavior Planning Of Connected Autonomous Vehicles" is available on [arxiv](http://arxiv.org/abs/2003.04371).
+* [2022/8] I get the General Electric (GE) fellowship of excellence. The GE Fellowship for Excellence program is established to recognize excellence of current graduate students and to facilitate their completion of the Ph.D. program.
 * [2022/7] Our paper "Towards Safe Autonomy in Hybrid Traffic: The Power of Information Sharing in Detecting Abnormal Human Drivers Behaviors" is presented in the AI4TS workshop at the 31st International Joint Conference On Artificial Intelligence (IJCAI 2022).
 * [2022/7] Our paper "DeResolver: A Decentralized Negotiation and Conflict Resolution Framework for Smart City Services" is accepted by ACM Transactions on Cyber-Physical Systems. (available online)
 * [2022/5] Our paper "Stable and Efficient Shapley Value-Based Reward Reallocation for Multi-Agent Reinforcement Learning of Autonomous Vehicles" is presented on the 2022 IEEE International Conference on Robotics and Automation (ICRA), Philadelphia, USA, May 2022. 
