@@ -75,7 +75,7 @@ email: "hansongyang@outlook.com"
 highlight_name: true
 ---
 
-I am currently a fourth-year PhD student in computer science and engineering working on artificial intelligence supervised by Prof. [Fei Miao](http://feimiao.org) at University of Connecticut. I was working on game theoretic energy management approaches in [Dynamic Systems Control Lab](https://sites.ji.sjtu.edu.cn/dsc/) in University of Michigan-Shanghai Jiao Tong University Joint Institute supervised by Prof. [Chengbin Ma](https://sites.ji.sjtu.edu.cn/dsc/professor/). 
+I am currently a final-year Ph.D. student in computer science and engineering working on artificial intelligence supervised by Prof. [Fei Miao](http://feimiao.org) at the University of Connecticut. I was working on game theoretic energy management approaches in [Dynamic Systems Control Lab](https://sites.ji.sjtu.edu.cn/dsc/) at the University of Michigan-Shanghai Jiao Tong University Joint Institute supervised by Prof. [Chengbin Ma](https://sites.ji.sjtu.edu.cn/dsc/professor/). 
 
 My current research interests include robust and scalable multi-agent reinforcement learning, artificial intelligence, deep learning, autonomous driving, computer vision, and game theory.
 
