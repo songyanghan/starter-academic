@@ -34,7 +34,7 @@ url_dataset: ""
 url_project: ""
 publication_short: In *arXiv*
 url_source: ""
-url_video: ""
+url_video: "https://songyanghan.github.io/cavmarl"
 title: A Multi-Agent Reinforcement Learning Approach For Safe and Efficient
   Behavior Planning Of Connected Autonomous Vehicles
 featured: false
@@ -44,7 +44,7 @@ projects:
 date: 2022-09-01T00:00:00.000Z
 url_slides: ""
 publishDate: 2022-09-01T00:00:00.000Z
-url_poster: "https://songyanghan.github.io/cavmarl"
+url_poster: ""
 url_code: ""
 doi: ""
 ---
