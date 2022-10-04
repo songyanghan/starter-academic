@@ -44,7 +44,7 @@ projects:
 date: 2022-09-01T00:00:00.000Z
 url_slides: ""
 publishDate: 2022-09-01T00:00:00.000Z
-url_poster: ""
+url_poster: "https://songyanghan.github.io/cavmarl"
 url_code: ""
 doi: ""
 ---
