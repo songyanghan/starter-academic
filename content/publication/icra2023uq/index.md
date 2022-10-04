@@ -22,10 +22,10 @@ url_pdf: "https://arxiv.org/pdf/2209.08162.pdf"
 publication_types:
   - "1"
 authors:
-  - admin
+  - Sanbao Su
   - Yiming Li
   - Sihong He
-  - Songyang Han
+  - admin
   - Chen Feng
   - Caiwen Ding
   - Fei Miao
@@ -35,7 +35,7 @@ summary: ""
 url_dataset: ""
 url_project: ""
 publication_short: ""
-url_source: "https://coperception.github.io/double-m-quantification/"
+url_source: ""
 url_video: ""
 title: Uncertainty Quantification of Collaborative Detection for Self-Driving
 doi: ""
@@ -51,7 +51,7 @@ image:
 date: 2022-09-22T23:29:00.499Z
 url_slides: ""
 publishDate: 2022-09-22T23:29:00.499Z
-url_poster: ""
+url_poster: "https://coperception.github.io/double-m-quantification/"
 url_code: ""
 ---
 
