@@ -44,7 +44,7 @@ experience:
   description: |2-
 
       * Summarized exiting reinforcement learning methods and the state-of-art deep learning methods used in autonomous driving.
-      * Built a prototype platform to train and test RL algorithms for autonomous vehicles in the Apollo platform.
+      * Built a prototype platform to train and test RL algorithms for autonomous vehicles in the Apollo platform and Amazon AWS. 
 
 - title: Research assistant
   company: University of Michigan-Shanghai Jiao Tong University Joint Institute
