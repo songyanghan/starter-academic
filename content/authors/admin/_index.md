@@ -80,7 +80,7 @@ I am currently a final-year Ph.D. student in computer science and engineering wo
 My current research interests include robust and scalable multi-agent reinforcement learning, artificial intelligence, deep learning, autonomous driving, computer vision, and game theory.
 
 ## News
-* [2022/9] Our paper "What is the Solution for State-Adversarial Multi-Agent Reinforcement Learning?" is available on [arxiv](https://arxiv.org/abs/2212.02705).
+* [2022/12] Our paper "What is the Solution for State-Adversarial Multi-Agent Reinforcement Learning?" is available on [arxiv](https://arxiv.org/abs/2212.02705).
 * [2022/9] Our paper "Uncertainty Quantification of Collaborative Detection for Self-Driving" is available on [arxiv](https://arxiv.org/abs/2209.08162), [website](https://coperception.github.io/double-m-quantification/).
 * [2022/9] Our paper "A Multi-Agent Reinforcement Learning Approach For Safe and Efficient Behavior Planning Of Connected Autonomous Vehicles" is available on [arxiv](http://arxiv.org/abs/2003.04371), [website](https://songyanghan.github.io/cavmarl/).
 * [2022/8] I get the General Electric (GE) fellowship of excellence. The GE Fellowship for Excellence program is established to recognize excellence of current graduate students and to facilitate their completion of the Ph.D. program.
