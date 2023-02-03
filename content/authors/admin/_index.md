@@ -80,6 +80,7 @@ I am currently a final-year Ph.D. student in computer science and engineering wo
 My current research interests include robust and scalable multi-agent reinforcement learning, artificial intelligence, deep learning, autonomous driving, computer vision, and game theory.
 
 ## News
+* [2023/2] Our paper "Shared Information-Based Safe And Efficient Behavior Planning For Connected Autonomous Vehicles" has been selected as the Runner-up Award for DCAA workshop at AAAI 2023.
 * [2023/1] Our paper "What is the Solution for State-Adversarial Multi-Agent Reinforcement Learning?" is available on [arxiv](https://arxiv.org/abs/2212.02705), [website](https://songyanghan.github.io/what_is_solution/).
 * [2023/1] Our paper "Uncertainty Quantification of Collaborative Detection for Self-Driving" is accepted by the 2023 IEEE International Conference on Robotics and Automation (ICRA), available on [arxiv](https://arxiv.org/abs/2209.08162), [website](https://coperception.github.io/double-m-quantification/).
 * [2023/1] Our paper "Spatial-Temporal-Aware Safe Multi-Agent Reinforcement Learning of Connected Autonomous Vehicles in Challenging Scenarios" is accepted by the 2023 IEEE International Conference on Robotics and Automation (ICRA), available on [arxiv](https://arxiv.org/abs/2210.02300).
