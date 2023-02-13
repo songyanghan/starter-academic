@@ -80,14 +80,12 @@ I am currently a final-year Ph.D. student in computer science and engineering wo
 My current research interests include robust and scalable multi-agent reinforcement learning, artificial intelligence, deep learning, autonomous driving, computer vision, and game theory.
 
 ## News
-* [2023/2] Our paper "Shared Information-Based Safe And Efficient Behavior Planning For Connected Autonomous Vehicles" has been selected as the Runner-up Award for the DCAA workshop at AAAI 2023, Washington, DC.
+* [2023/2] Our paper "Shared Information-Based Safe And Efficient Behavior Planning For Connected Autonomous Vehicles" has been selected as the Best Paper Award for the [DCAA workshop](https://ncsu-dk-lab.github.io/workshops/dcaa@2023/) at AAAI 2023, Washington, DC.
 * [2023/1] Our paper "What is the Solution for State-Adversarial Multi-Agent Reinforcement Learning?" is available on [arxiv](https://arxiv.org/abs/2212.02705), [website](https://songyanghan.github.io/what_is_solution/).
 * [2023/1] Our paper "Uncertainty Quantification of Collaborative Detection for Self-Driving" is accepted by the 2023 IEEE International Conference on Robotics and Automation (ICRA), available on [arxiv](https://arxiv.org/abs/2209.08162), [website](https://coperception.github.io/double-m-quantification/).
 * [2023/1] Our paper "Spatial-Temporal-Aware Safe Multi-Agent Reinforcement Learning of Connected Autonomous Vehicles in Challenging Scenarios" is accepted by the 2023 IEEE International Conference on Robotics and Automation (ICRA), available on [arxiv](https://arxiv.org/abs/2210.02300).
 * [2022/9] Our paper "A Multi-Agent Reinforcement Learning Approach For Safe and Efficient Behavior Planning Of Connected Autonomous Vehicles" is available on [arxiv](http://arxiv.org/abs/2003.04371), [website](https://songyanghan.github.io/cavmarl/).
 * [2022/8] I get the General Electric (GE) fellowship of excellence. The GE Fellowship for Excellence program is established to recognize excellence of current graduate students and to facilitate their completion of the Ph.D. program.
 * [2022/7] Our paper "Towards Safe Autonomy in Hybrid Traffic: The Power of Information Sharing in Detecting Abnormal Human Drivers Behaviors" is presented in the AI4TS workshop at the 31st International Joint Conference On Artificial Intelligence (IJCAI 2022).
-* [2022/7] Our paper "DeResolver: A Decentralized Negotiation and Conflict Resolution Framework for Smart City Services" is accepted by ACM Transactions on Cyber-Physical Systems. (available online)
+* [2022/7] Our paper "DeResolver: A Decentralized Negotiation and Conflict Resolution Framework for Smart City Services" is accepted by ACM Transactions on Cyber-Physical Systems. (available [online](https://dl.acm.org/doi/10.1145/3529096)).
 * [2022/5] Our paper "Stable and Efficient Shapley Value-Based Reward Reallocation for Multi-Agent Reinforcement Learning of Autonomous Vehicles" is presented on the 2022 IEEE International Conference on Robotics and Automation (ICRA), Philadelphia, USA, May 2022. 
-* [2022/3] I get the first place award in the Computer Science and Engineering Department in the 8th annual graduate poster competition hosted by the School of Engineering of University of Connecticut.
-
