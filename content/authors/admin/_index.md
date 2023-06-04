@@ -32,7 +32,7 @@ education:
   courses:
   - course: PhD in Computer Science and Engineering
     institution: University of Connecticut
-    year: 2023 (expected)
+    year: 2023
   - course: MS in Electrical and Computer Engineering
     institution: Shanghai Jiao Tong University
     year: 2018
