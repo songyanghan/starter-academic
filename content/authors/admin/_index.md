@@ -80,7 +80,7 @@ I am currently a final-year Ph.D. candidate in computer science and engineering 
 My current research interests include robust and scalable multi-agent reinforcement learning, artificial intelligence, deep learning, autonomous driving, computer vision, and game theory.
 
 ## News
-* [2023/6] Our paper "Towards Safe Autonomy in Hybrid Traffic: Detecting Unpredictable Abnormal Behaviors of Human Drivers via Information Sharing" is accepted by Transactions on Cyber-Physical Systems (TCPS).
+* [2023/6] Our paper "Towards Safe Autonomy in Hybrid Traffic: Detecting Unpredictable Abnormal Behaviors of Human Drivers via Information Sharing" is accepted by ACM Transactions on Cyber-Physical Systems (TCPS).
 * [2023/5] Our paper "Robust Multi-Agent Reinforcement Learning with State Uncertainty" is accepted by Transactions on Machine Learning Research (TMLR).
 * [2023/5] I receive the CSE Predoctoral Fellowship.
 * [2023/5] I give an invited Seminar "Safe, Stable, and Robust Multi-Agent Reinforcement Learning for Connected Autonomous Vehicles" at MIT.
