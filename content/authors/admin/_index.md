@@ -6,7 +6,7 @@ title: Songyang Han
 superuser: true
 
 # Role/position/tagline
-role: PhD candidate | Computer Science and Engineering | Artificial Intelligence
+role: Ph.D. | Computer Science and Engineering | Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -23,6 +23,7 @@ interests:
 - Deep learning
 - Autonomous driving
 - Computer vision
+- Large Lanaguage Model
 - Game theory
 # - Optimization
 # - Optimal control
@@ -77,7 +78,7 @@ highlight_name: true
 
 I am currently a final-year Ph.D. candidate in computer science and engineering working on artificial intelligence supervised by Prof. [Fei Miao](http://feimiao.org) at the University of Connecticut. I was working on game theoretic energy management approaches in [Dynamic Systems Control Lab](https://sites.ji.sjtu.edu.cn/dsc/) at the University of Michigan-Shanghai Jiao Tong University Joint Institute supervised by Prof. [Chengbin Ma](https://sites.ji.sjtu.edu.cn/dsc/professor/). 
 
-My current research interests include robust and scalable multi-agent reinforcement learning, artificial intelligence, deep learning, autonomous driving, computer vision, and game theory.
+My current research interests include artificial intelligence, reinforcement learning, machine learning, autonomous driving, computer vision, large langauge model, and game theory.
 
 ## News
 * [2023/6] Our paper "Towards Safe Autonomy in Hybrid Traffic: Detecting Unpredictable Abnormal Behaviors of Human Drivers via Information Sharing" is accepted by ACM Transactions on Cyber-Physical Systems (TCPS).
