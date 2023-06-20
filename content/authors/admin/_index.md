@@ -81,12 +81,12 @@ I am currently a final-year Ph.D. candidate in computer science and engineering 
 My current research interests include artificial intelligence, reinforcement learning, machine learning, autonomous driving, computer vision, and game theory.
 
 ## News
+* [2023/6] Our paper "What is the Solution for State-Adversarial Multi-Agent Reinforcement Learning?" is accepted by the Frontiers4LCD Workshop at the International Conference on Machine Learning (ICML) 2023. Available on [arxiv](https://arxiv.org/abs/2212.02705), [website](https://songyanghan.github.io/what_is_solution/).
 * [2023/6] Our paper "Towards Safe Autonomy in Hybrid Traffic: Detecting Unpredictable Abnormal Behaviors of Human Drivers via Information Sharing" is accepted by ACM Transactions on Cyber-Physical Systems (TCPS).
 * [2023/5] Our paper "Robust Multi-Agent Reinforcement Learning with State Uncertainty" is accepted by Transactions on Machine Learning Research (TMLR).
 * [2023/5] I receive the CSE Predoctoral Fellowship.
 * [2023/5] I give an invited Seminar "Safe, Stable, and Robust Multi-Agent Reinforcement Learning for Connected Autonomous Vehicles" at MIT.
 * [2023/2] Our paper "Shared Information-Based Safe And Efficient Behavior Planning For Connected Autonomous Vehicles" gets the **Best Paper Award** in the [DCAA workshop](https://ncsu-dk-lab.github.io/workshops/dcaa@2023/) at AAAI 2023, Washington, DC. Available on [arxiv](https://arxiv.org/abs/2302.04321).
-* [2023/1] Our paper "What is the Solution for State-Adversarial Multi-Agent Reinforcement Learning?" is available on [arxiv](https://arxiv.org/abs/2212.02705), [website](https://songyanghan.github.io/what_is_solution/).
 * [2023/1] Our paper "Uncertainty Quantification of Collaborative Detection for Self-Driving" is accepted by the 2023 IEEE International Conference on Robotics and Automation (ICRA), available on [arxiv](https://arxiv.org/abs/2209.08162), [website](https://coperception.github.io/double-m-quantification/).
 * [2023/1] Our paper "Spatial-Temporal-Aware Safe Multi-Agent Reinforcement Learning of Connected Autonomous Vehicles in Challenging Scenarios" is accepted by the 2023 IEEE International Conference on Robotics and Automation (ICRA), available on [arxiv](https://arxiv.org/abs/2210.02300).
 * [2022/9] Our paper "A Multi-Agent Reinforcement Learning Approach For Safe and Efficient Behavior Planning Of Connected Autonomous Vehicles" is available on [arxiv](http://arxiv.org/abs/2003.04371), [website](https://songyanghan.github.io/cavmarl/).
