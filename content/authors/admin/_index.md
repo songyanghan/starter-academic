@@ -10,8 +10,8 @@ role: Ph.D. | Computer Science and Engineering | Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Connecticut
-  url: https://uconn.edu
+- name: Sony AI
+  url: https://ai.sony
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include multi-agent reinforcement learning, connected autonomous vehicles.
@@ -70,13 +70,13 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "hansongyang@outlook.com"
+email: "songyang.han@sony.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am currently a final-year Ph.D. candidate in computer science and engineering working on artificial intelligence supervised by Prof. [Fei Miao](http://feimiao.org) at the University of Connecticut. I was working on game theoretic energy management approaches in [Dynamic Systems Control Lab](https://sites.ji.sjtu.edu.cn/dsc/) at the University of Michigan-Shanghai Jiao Tong University Joint Institute supervised by Prof. [Chengbin Ma](https://sites.ji.sjtu.edu.cn/dsc/professor/). 
+I am a research scientist at Sony AI. I got my Ph.D. degree in computer science and engineering working on artificial intelligence supervised by Prof. [Fei Miao](http://feimiao.org) at the University of Connecticut. I was working on game theoretic energy management approaches in [Dynamic Systems Control Lab](https://sites.ji.sjtu.edu.cn/dsc/) at the University of Michigan-Shanghai Jiao Tong University Joint Institute supervised by Prof. [Chengbin Ma](https://sites.ji.sjtu.edu.cn/dsc/professor/). 
 
 My current research interests include artificial intelligence, reinforcement learning, machine learning, autonomous driving, computer vision, and game theory.
 
