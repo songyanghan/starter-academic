@@ -43,7 +43,7 @@ experience:
 
       * Design a safe and scalable multi-agent reinforcement learning  framework for the behavior planning and control of connected autonomous vehicles to improve traffic efficiency and safety.
       * Propose a stable and efficient reward reallocation algorithm to motivate cooperation for multi-agent reinforcement learning assuming all agents are self-interested.
-      * Study the fundamental properties of the robust multi-agent reinforcement learning under adversarial state perturbations and propose a new objective and an algorithm to increase the mean episode reward.
+      * Study the fundamental properties of the robust multi-agent reinforcement learning under adversarial state perturbations and propose a new objective and an algorithm to learn robust policy.
 
 - title: Research intern
   company: Baidu USA
