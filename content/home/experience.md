@@ -27,8 +27,8 @@ experience:
   company: Amazon
   company_url: 'https://www.aboutamazon.com'
   location: Sunnyvale, CA, USA
-  date_start: '2023-05'
-  date_end: '2023-08'
+  date_start: '2023-05-22'
+  date_end: '2023-08-11'
   description: |2-
 
       * Summarized exiting reinforcement learning methods and the state-of-art deep learning methods used in autonomous driving.
@@ -38,8 +38,8 @@ experience:
   company: University of Connecticut
   company_url: 'http://feimiao.org/index.html'
   location: Storrs, CT, USA
-  date_start: '2018-08'
-  date_end: '2023-08'
+  date_start: '2018-08-26'
+  date_end: '2023-05-08'
   description: |2-
 
       * Design a safe and scalable multi-agent reinforcement learning  framework for the behavior planning and control of connected autonomous vehicles to improve traffic efficiency and safety.
@@ -50,8 +50,8 @@ experience:
   company: Baidu USA
   company_url: 'https://usa.baidu.com'
   location: Sunnyvale, CA, USA
-  date_start: '2020-05'
-  date_end: '2020-12'
+  date_start: '2020-05-11'
+  date_end: '2020-12-31'
   description: |2-
 
       * Summarized exiting reinforcement learning methods and the state-of-art deep learning methods used in autonomous driving.
@@ -61,8 +61,8 @@ experience:
   company: University of Michigan-Shanghai Jiao Tong University Joint Institute
   company_url: 'http://umji.sjtu.edu.cn/lab/dsc/'
   location: Shanghai, China
-  date_start: '2015-09'
-  date_end: '2018-03'
+  date_start: '2015-09-01'
+  date_end: '2018-03-31'
   description: |2-
 
       * Proposed a flexible energy management approach to handle the uncertainties of weather and sizing in an isolated microgrid, which would not be influenced dramatically by different weather conditions.
