@@ -31,8 +31,7 @@ experience:
   date_end: '2023-08-11'
   description: |2-
 
-      * Summarized exiting reinforcement learning methods and the state-of-art deep learning methods used in autonomous driving.
-      * Built a prototype platform to train and test RL algorithms for autonomous vehicles in the Apollo platform and Amazon AWS. 
+      * Crafted machine learning-driven solutions to efficiently handle time-series data characterized by sparse observations.
    
 - title: Research assistant
   company: University of Connecticut
