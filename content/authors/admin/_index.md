@@ -6,7 +6,7 @@ title: Songyang Han
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. | Computer Science and Engineering | Artificial Intelligence
+role: Research Scientist | Ph.D. | Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
