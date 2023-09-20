@@ -81,6 +81,7 @@ I am a research scientist at Sony AI. I got my Ph.D. degree in computer science 
 My current research interests include artificial intelligence, reinforcement learning, machine learning, autonomous driving, computer vision, and game theory.
 
 ## News
+* [2023/8] I am excited to join Sony AI America as a research scientist.
 * [2023/6] Our paper "What is the Solution for State-Adversarial Multi-Agent Reinforcement Learning?" is accepted by the Frontiers4LCD Workshop at the International Conference on Machine Learning (ICML) 2023. Available on [arxiv](https://arxiv.org/abs/2212.02705), [website](https://songyanghan.github.io/what_is_solution/).
 * [2023/6] Our paper "Towards Safe Autonomy in Hybrid Traffic: Detecting Unpredictable Abnormal Behaviors of Human Drivers via Information Sharing" is accepted by ACM Transactions on Cyber-Physical Systems (TCPS).
 * [2023/5] Our paper "Robust Multi-Agent Reinforcement Learning with State Uncertainty" is accepted by Transactions on Machine Learning Research (TMLR).
