@@ -76,9 +76,9 @@ email: "songyang.han@sony.com"
 highlight_name: true
 ---
 
-I am a research scientist at Sony AI. I got my Ph.D. degree in computer science and engineering working on artificial intelligence supervised by Prof. [Fei Miao](http://feimiao.org) at the University of Connecticut. I was working on game theoretic energy management approaches in [Dynamic Systems Control Lab](https://sites.ji.sjtu.edu.cn/dsc/) at the University of Michigan-Shanghai Jiao Tong University Joint Institute supervised by Prof. [Chengbin Ma](https://sites.ji.sjtu.edu.cn/dsc/professor/). 
+I am a research scientist at Sony AI. I got my Ph.D. degree in computer science and engineering working on artificial intelligence at the University of Connecticut. I was working on game theoretic energy management approaches in [Dynamic Systems Control Lab](https://sites.ji.sjtu.edu.cn/dsc/) at the University of Michigan-Shanghai Jiao Tong University Joint Institute. 
 
-My current research interests include artificial intelligence, reinforcement learning, machine learning, autonomous driving, computer vision, and game theory.
+My current research interests include artificial intelligence, reinforcement learning, generative AI, machine learning, and computer vision.
 
 ## News
 * [2023/8] I am excited to join Sony AI as a research scientist.
