@@ -81,6 +81,7 @@ I am a research scientist at Sony AI. I got my Ph.D. degree in computer science 
 My current research interests include artificial intelligence, reinforcement learning, generative AI, machine learning, and computer vision.
 
 ## News
+* [2024/1] Our paper "Collaborative Multi-Object Tracking with Conformal Uncertainty Propagation" is accepted by IEEE Robotics and Automation Letters (RA-L). Available on [arxiv](https://arxiv.org/abs/2303.14346), [website](https://coperception.github.io/MOT-CUP/).
 * [2024/1] Our paper "What is the Solution for State-Adversarial Multi-Agent Reinforcement Learning?" is accepted by Transactions on Machine Learning Research (TMLR). Available on [arxiv](https://arxiv.org/abs/2212.02705), [website](https://songyanghan.github.io/what_is_solution/).
 * [2023/10] Our paper "A Multi-Agent Reinforcement Learning Approach For Safe and Efficient Behavior Planning Of Connected Autonomous Vehicles" is accepted by IEEE Transactions on Intelligent Transportation Systems. Available on [arxiv](http://arxiv.org/abs/2003.04371), [website](https://songyanghan.github.io/cavmarl/).
 * [2023/8] I am excited to join Sony AI as a research scientist.
