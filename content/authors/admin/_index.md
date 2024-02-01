@@ -14,11 +14,11 @@ organizations:
   url: https://ai.sony
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include multi-agent reinforcement learning, connected autonomous vehicles.
+bio: My research interests include Artificial General Intelligence, multi-agent reinforcement learning.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
+- Artificial General Intelligence
 - Reinforcement learning
 - Generative AI
 - Autonomous driving
