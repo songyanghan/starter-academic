@@ -23,6 +23,17 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
+- title: Research scientist
+  company: Sony AI America
+  company_url: 'https://ai.sony'
+  location: New York City, NY, USA
+  date_start: '2023-08-21'
+  date_end: '2024-09-06'
+  description: |2-
+
+      * Working in the Reinforcement Learning group led by Peter Stone and Peter Wurman.
+      * A revolutionary superhuman racing AI agent that has mastered the highly realistic game of Gran Turismo, to race against and elevate the gaming experience of GT drivers.
+
 - title: Applied scientist intern
   company: Amazon
   company_url: 'https://www.aboutamazon.com'
