@@ -42,7 +42,7 @@ abstract: Various types of Multi-Agent Reinforcement Learning (MARL) methods hav
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:

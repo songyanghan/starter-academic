@@ -37,7 +37,7 @@ url_source: ""
 url_video: "https://songyanghan.github.io/cavmarl"
 title: A Multi-Agent Reinforcement Learning Approach For Safe and Efficient
   Behavior Planning Of Connected Autonomous Vehicles
-featured: false
+featured: true
 tags: []
 projects:
   - learning-and-control-for-connected-autonomous-vehicles
