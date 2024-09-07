@@ -32,7 +32,7 @@ abstract: "The recent advancements in wireless technology enable connected
 url_pdf: ""
 url_dataset: ""
 url_project: ""
-publication_short: In *arXiv*
+publication_short: In *IEEE T-ITS*
 url_source: ""
 url_video: "https://songyanghan.github.io/cavmarl"
 title: A Multi-Agent Reinforcement Learning Approach For Safe and Efficient
