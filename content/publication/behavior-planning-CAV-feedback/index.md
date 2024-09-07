@@ -41,9 +41,9 @@ featured: false
 tags: []
 projects:
   - learning-and-control-for-connected-autonomous-vehicles
-date: 2022-09-01T00:00:00.000Z
+date: 2023-09-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2022-09-01T00:00:00.000Z
+publishDate: 2023-09-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: ""
