@@ -6,25 +6,25 @@ title: Songyang Han
 superuser: true
 
 # Role/position/tagline
-role: Research Scientist | Ph.D. | Artificial Intelligence
+role: Applied Scientist | Ph.D. | Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Sony AI
-  url: https://ai.sony
+- name: Amazon Science
+  url: https://www.amazon.science
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Artificial General Intelligence(AGI), Large Language Model(LLM).
 
 # Interests to show in About widget
 interests:
+- Large Lanaguage Model
 - Artificial General Intelligence
 - Reinforcement learning
 - Generative AI
 - Autonomous driving
 - Computer vision
-- Large Lanaguage Model
-- Game theory
+# - Game theory
 # - Optimization
 # - Optimal control
 
@@ -35,7 +35,7 @@ education:
     institution: University of Connecticut
     year: 2023
   - course: MS in Electrical and Computer Engineering
-    institution: Shanghai Jiao Tong University
+    institution: University of Michigan-Shanghai Jiao Tong University Joint Institute
     year: 2018
   - course: BEng in Automation
     institution: Nanjing University
@@ -76,11 +76,12 @@ email: "songyang.han@sony.com"
 highlight_name: true
 ---
 
-I am a research scientist at Sony AI. I got my Ph.D. degree in computer science and engineering working on artificial intelligence at the University of Connecticut. I was working on game theoretic energy management approaches in [Dynamic Systems Control Lab](https://sites.ji.sjtu.edu.cn/dsc/) at the University of Michigan-Shanghai Jiao Tong University Joint Institute. 
+I am an applied scientist at Amazon AWS AI Lab working on Amazon Q (Large language model based code generation). I got my Ph.D. degree in computer science and engineering working on artificial intelligence advised by [Prof. Fei Miao](http://feimiao.org) at the University of Connecticut. I worked on game theoretic energy management approaches in [Dynamic Systems Control Lab](https://sites.ji.sjtu.edu.cn/dsc/) at the University of Michigan-Shanghai Jiao Tong University Joint Institute. Before joining Amazon, I worked on a superhuman racing AI agent that mastered the highly realistic game Gran Turismo at [Sony AI America](https://ai.sony).
 
-My current research interests include artificial intelligence, reinforcement learning, generative AI, machine learning, and computer vision.
+My current research interests include large language model, artificial general intelligence, reinforcement learning, generative AI, and computer vision.
 
 ## News
+* [2024/9] I am excited to join Amazon AWS AI Lab as an applied scientist.
 * [2024/8] Our team's paper "A Super-human Vision-based Reinforcement Learning Agent for Autonomous Racing in Gran Turismo" received the Outstanding Paper Award at the 1st annual Reinforcement Learning Conference (RLC) 2024. 
 * [2024/1] Our paper "Real-time Human Presence Estimation For Indoor Robots" is accepted by 2024 IEEE International Conference on Robotics and Automation (ICRA).
 * [2024/1] Our paper "Collaborative Multi-Object Tracking with Conformal Uncertainty Propagation" is accepted by IEEE Robotics and Automation Letters (RA-L). Available on [arxiv](https://arxiv.org/abs/2303.14346), [website](https://coperception.github.io/MOT-CUP/).
