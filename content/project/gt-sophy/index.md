@@ -1,6 +1,6 @@
 ---
 title: Superhuman racing AI agent that mastered Gran Turismo
-date: 2021-03-12T03:13:15.325Z
+date: 2023-03-12T03:13:15.325Z
 tags:
 - Racing AI
 - Superhuman AI
