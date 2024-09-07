@@ -29,6 +29,12 @@ content:
     tag: '*'
   - name: Autonomous Driving
     tag: Autonomous Driving
+  - name: Racing AI
+    tag: Racing AI
+  - name: Uncertainty Quantification
+    tag: Uncertainty Quantification
+  - name: Quantum Cryptography
+    tag: Quantum Cryptography
   - name: Other
     tag: Demo
 
