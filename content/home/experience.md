@@ -42,6 +42,7 @@ experience:
   date_end: '2023-08-11'
   description: |2-
 
+      * Mentored by Apaar Sadhwani 
       * Crafted machine learning-driven solutions to efficiently handle time-series data characterized by sparse observations.
    
 - title: Research assistant
@@ -64,6 +65,7 @@ experience:
   date_end: '2020-12-31'
   description: |2-
 
+      * Mentored by Shiyu Song
       * Summarized exiting reinforcement learning methods and the state-of-art deep learning methods used in autonomous driving.
       * Built a prototype platform to train and test RL algorithms for autonomous vehicles in the Apollo platform and Amazon AWS. 
 
