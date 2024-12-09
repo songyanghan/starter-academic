@@ -81,7 +81,7 @@ I am an applied scientist at Amazon AWS AI Labs working on Amazon Q Developer (L
 My current research interests include large language model, artificial general intelligence, reinforcement learning, generative AI, and computer vision.
 
 ## News
-* [2024/12] Our project, Amazon Q Developer code review, is released by AWS CEO Matt Garman at AWS re:Invent 2024. [website](https://aws.amazon.com/blogs/aws/new-amazon-q-developer-agent-capabilities-include-generating-documentation-code-reviews-and-unit-tests/)
+* [2024/12] Our project, Amazon Q Developer code review, is announced by AWS CEO Matt Garman at AWS re:Invent 2024. [website](https://aws.amazon.com/blogs/aws/new-amazon-q-developer-agent-capabilities-include-generating-documentation-code-reviews-and-unit-tests/)
 * [2024/9] I am excited to join Amazon AWS AI Labs as an applied scientist.
 * [2024/8] Our team's paper "A Super-human Vision-based Reinforcement Learning Agent for Autonomous Racing in Gran Turismo" received the Outstanding Paper Award at the 1st annual Reinforcement Learning Conference (RLC) 2024. 
 * [2024/1] Our paper "Real-time Human Presence Estimation For Indoor Robots" is accepted by 2024 IEEE International Conference on Robotics and Automation (ICRA).
