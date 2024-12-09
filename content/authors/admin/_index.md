@@ -6,7 +6,7 @@ title: Songyang Han
 superuser: true
 
 # Role/position/tagline
-role: Applied Scientist | Ph.D. | Artificial Intelligence
+role: Applied Scientist | Ph.D. | Artificial General Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -70,18 +70,19 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "songyang.han@sony.com"
+email: "songyanh@amazon.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am an applied scientist at Amazon AWS AI Lab working on Amazon Q (Large language model based code generation). I got my Ph.D. degree in computer science and engineering working on artificial intelligence advised by [Prof. Fei Miao](http://feimiao.org) at the University of Connecticut. I worked on game theoretic energy management approaches in [Dynamic Systems Control Lab](https://sites.ji.sjtu.edu.cn/dsc/) at the University of Michigan-Shanghai Jiao Tong University Joint Institute. Before joining Amazon, I worked on a superhuman racing AI agent that mastered the highly realistic game Gran Turismo at [Sony AI America](https://ai.sony).
+I am an applied scientist at Amazon AWS AI Labs working on Amazon Q Developer (Large language model based code generation). I got my Ph.D. degree in computer science and engineering working on artificial intelligence advised by [Prof. Fei Miao](http://feimiao.org) at the University of Connecticut. I worked on game theoretic energy management approaches in [Dynamic Systems Control Lab](https://sites.ji.sjtu.edu.cn/dsc/) at the University of Michigan-Shanghai Jiao Tong University Joint Institute. Before joining Amazon, I worked on a superhuman racing AI agent that mastered the highly realistic game Gran Turismo at [Sony AI America](https://ai.sony).
 
 My current research interests include large language model, artificial general intelligence, reinforcement learning, generative AI, and computer vision.
 
 ## News
-* [2024/9] I am excited to join Amazon AWS AI Lab as an applied scientist.
+* [2024/12] Our project, Amazon Q Developer code review, is released by AWS CEO Matt Garman at AWS re:Invent 2024.
+* [2024/9] I am excited to join Amazon AWS AI Labs as an applied scientist.
 * [2024/8] Our team's paper "A Super-human Vision-based Reinforcement Learning Agent for Autonomous Racing in Gran Turismo" received the Outstanding Paper Award at the 1st annual Reinforcement Learning Conference (RLC) 2024. 
 * [2024/1] Our paper "Real-time Human Presence Estimation For Indoor Robots" is accepted by 2024 IEEE International Conference on Robotics and Automation (ICRA).
 * [2024/1] Our paper "Collaborative Multi-Object Tracking with Conformal Uncertainty Propagation" is accepted by IEEE Robotics and Automation Letters (RA-L). Available on [arxiv](https://arxiv.org/abs/2303.14346), [website](https://coperception.github.io/MOT-CUP/).
