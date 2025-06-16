@@ -76,11 +76,14 @@ email: "songyanh@amazon.com"
 highlight_name: true
 ---
 
-I am an applied scientist at Amazon AWS AI Labs working on Amazon Q Developer (Large language model based code generation). I got my Ph.D. degree in computer science and engineering working on artificial intelligence advised by [Prof. Fei Miao](http://feimiao.org) at the University of Connecticut. I worked on game theoretic energy management approaches in [Dynamic Systems Control Lab](https://sites.ji.sjtu.edu.cn/dsc/) at the University of Michigan-Shanghai Jiao Tong University Joint Institute. Before joining Amazon, I worked on a superhuman racing AI agent that mastered the highly realistic game Gran Turismo at [Sony AI America](https://ai.sony).
+I am an applied scientist at Amazon AWS AI Labs working on the post-training of agentic LLM foundation models. Before joining Amazon, I worked on a superhuman racing AI agent that mastered the highly realistic game Gran Turismo with Prof. Peter Stone and Peter Wurman at [Sony AI America](https://ai.sony).
 
-My current research interests include large language model, artificial general intelligence, reinforcement learning, generative AI, and computer vision.
+I got my Ph.D. degree in Computer Science and Engineering working on artificial intelligence advised by [Prof. Fei Miao](http://feimiao.org) at the University of Connecticut. I worked on game theoretic energy management approaches in [Dynamic Systems Control Lab](https://sites.ji.sjtu.edu.cn/dsc/) at the University of Michigan-Shanghai Jiao Tong University Joint Institute.
+
+My current research interests include large language models, artificial general intelligence, reinforcement learning, generative AI, and computer vision.
 
 ## News
+* [2025/6] Our paper "Multi-Agent Reinforcement Learning Guided by Signal Temporal Logic Specifications" is accepted by 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).
 * [2024/12] Our project, Amazon Q Developer code review, is announced by AWS CEO Matt Garman at AWS re:Invent 2024. [website](https://aws.amazon.com/blogs/aws/new-amazon-q-developer-agent-capabilities-include-generating-documentation-code-reviews-and-unit-tests/)
 * [2024/9] I am excited to join Amazon AWS AI Labs as an applied scientist.
 * [2024/8] Our team's paper "A Super-human Vision-based Reinforcement Learning Agent for Autonomous Racing in Gran Turismo" received the Outstanding Paper Award at the 1st annual Reinforcement Learning Conference (RLC) 2024. 
