@@ -76,7 +76,7 @@ email: "songyanh@amazon.com"
 highlight_name: true
 ---
 
-I am an Applied Scientist at [Amazon AWS](https://aws.amazon.com) AI Labs, where I work on the post-training of agentic foundation models based on large language models (LLMs). Prior to Amazon, I worked at [Sony AI America](https://ai.sony) with [Prof. Peter Stone](https://www.cs.utexas.edu/~pstone/) and [Peter Wurman](https://www.pwurman.org) on developing a superhuman racing agent for Gran Turismo, a highly realistic racing game.
+I am an Applied Scientist at [Amazon AWS](https://aws.amazon.com) AI Labs, where I work on the post-training of agentic foundation models based on large language models (LLMs). Prior to Amazon, I worked at [Sony AI America](https://ai.sony) with [Prof. Peter Stone](https://www.cs.utexas.edu/~pstone/) and [Peter Wurman](https://www.pwurman.org) on developing a superhuman racing agent [Gran Turismo Sophy](https://www.gran-turismo.com/us/gran-turismo-sophy/) for a highly realistic racing game.
 
 I earned my Ph.D. in Computer Science and Engineering from the University of Connecticut, where I was advised by [Prof. Fei Miao](http://feimiao.org) and focused on artificial intelligence. Before that, I worked on game-theoretic energy management in the [Dynamic Systems Control Lab](https://sites.ji.sjtu.edu.cn/dsc/) at the [University of Michigan–Shanghai Jiao Tong University Joint Institute](https://www.ji.sjtu.edu.cn).  I received my B.E. degree from [Nanjing University](https://www.nju.edu.cn/en/).
 
