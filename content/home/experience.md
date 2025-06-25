@@ -23,6 +23,19 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
+- title: Applied scientist
+  company: Amazon AWS AI Labs
+  company_url: 'https://aws.amazon.com'
+  location: Santa Clara, CA, USA
+  date_start: '2024-09-06'
+  date_end: 'now'
+  description: |2-
+
+      * Amazon Q Developer and CodeWhisperer; LLMs for Coding. 
+      * 2025: Post-training, reinforcement learning of LLM foundation models, agentic AI
+      * 2024: Our project, Amazon Q Developer code review, is announced by AWS CEO Matt Garman at AWS re:Invent 2024.
+
+
 - title: Research scientist
   company: Sony AI America
   company_url: 'https://ai.sony'
@@ -31,7 +44,7 @@ experience:
   date_end: '2024-09-06'
   description: |2-
 
-      * Working in the Reinforcement Learning group led by Peter Stone and Peter Wurman.
+      * Worked in the Reinforcement Learning group led by Peter Stone and Peter Wurman.
       * A revolutionary superhuman racing AI agent that has mastered the highly realistic game of Gran Turismo, to race against and elevate the gaming experience of GT drivers.
 
 - title: Applied scientist intern
@@ -53,9 +66,9 @@ experience:
   date_end: '2023-05-08'
   description: |2-
 
-      * Design a safe and scalable multi-agent reinforcement learning  framework for the behavior planning and control of connected autonomous vehicles to improve traffic efficiency and safety.
-      * Propose a stable and efficient reward reallocation algorithm to motivate cooperation for multi-agent reinforcement learning assuming all agents are self-interested.
-      * Study the fundamental properties of the robust multi-agent reinforcement learning under adversarial state perturbations and propose a new objective and an algorithm to learn robust policy.
+      * Designed a safe and scalable multi-agent reinforcement learning  framework for the behavior planning and control of connected autonomous vehicles to improve traffic efficiency and safety.
+      * Proposed a stable and efficient reward reallocation algorithm to motivate cooperation for multi-agent reinforcement learning assuming all agents are self-interested.
+      * Studied the fundamental properties of the robust multi-agent reinforcement learning under adversarial state perturbations and proposed a new objective and an algorithm to learn robust policy.
 
 - title: Research intern
   company: Baidu USA
@@ -66,7 +79,7 @@ experience:
   description: |2-
 
       * Mentored by Shiyu Song
-      * Summarized exiting reinforcement learning methods and the state-of-art deep learning methods used in autonomous driving.
+      * Single and multi-agent RL, distributed learning, algorithm architecture and interface, and a prototype design.
       * Built a prototype platform to train and test RL algorithms for autonomous vehicles in the Apollo platform and Amazon AWS. 
 
 - title: Research assistant
