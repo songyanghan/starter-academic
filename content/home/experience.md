@@ -28,7 +28,7 @@ experience:
   company_url: 'https://aws.amazon.com'
   location: Santa Clara, CA, USA
   date_start: '2024-09-06'
-  date_end: 'now'
+  date_end: ''
   description: |2-
 
       * Amazon Q Developer and CodeWhisperer; LLMs for Coding. 
