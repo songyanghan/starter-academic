@@ -32,12 +32,8 @@ experience:
   description: |2-
 
       * Amazon Q Developer, Kiro, and CodeWhisperer; LLMs for Coding. 
-      * 2025: Post-training, reinforcement learning of LLM foundation models, agentic AI, reasoning
-      - Designed and implemented the multi-turn agentic RL recipe, enabling tool-integrated and reasoning across Amazon’s Nova and Kiro models.
-      - Kiro, an agentic coding integrated development environment that brings clarity through spec-driven development, with more than 100,000+ developers jumping in during the first days of preview and more than doubling since.
-      * 2024: Our project, Amazon Q Developer code review, is announced by AWS CEO Matt Garman at AWS re:Invent 2024.
-      - Designed the core functionality of the code review agent.
-      - The product achieved 85% precision in offline evaluation, and is now used by 10K+ developers, and flagged 1M+ issues in its first quarter.
+      * 2025: Post-training, reinforcement learning of LLM foundation models, agentic AI, reasoning: Designed and implemented the multi-turn agentic RL recipe, enabling tool-integrated and reasoning across Amazon’s Nova and Kiro models. Kiro, an agentic coding integrated development environment that brings clarity through spec-driven development, with more than 100,000+ developers jumping in during the first days of preview and more than doubling since.
+      * 2024: Our project, Amazon Q Developer code review, is announced by AWS CEO Matt Garman at AWS re:Invent 2024. Designed the core functionality of the code review agent. The product achieved 85% precision in offline evaluation, and is now used by 10K+ developers, and flagged 1M+ issues in its first quarter.
 
 
 - title: Research scientist
