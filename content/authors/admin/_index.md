@@ -85,8 +85,8 @@ My current research interests include large language models, artificial general 
 ## News
 * [2025/7] Launched [Kiro IDE](https://kiro.dev), 100k+ users in first 7 days. 
 * [2025/6] Our paper "Multi-Agent Reinforcement Learning Guided by Signal Temporal Logic Specifications" is accepted by 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).
-* [2025/3] Our Amazon Q code review agent achieved 85\% precision in offline evaluation, and is now used by 10K+ developers, and flagged 1M+ issues in its first quarter.
-* [2024/12] Our project, Amazon Q code review agent, is announced by AWS CEO Matt Garman at AWS re:Invent 2024. [website](https://aws.amazon.com/blogs/aws/new-amazon-q-developer-agent-capabilities-include-generating-documentation-code-reviews-and-unit-tests/)
+* [2025/3] Our Amazon Q developer code review agent achieved 85\% precision in offline evaluation, and is now used by 10K+ developers, and flagged 1M+ issues in its first quarter.
+* [2024/12] Our project, [Amazon Q developer code review agent](https://aws.amazon.com/blogs/aws/new-amazon-q-developer-agent-capabilities-include-generating-documentation-code-reviews-and-unit-tests/), is announced by AWS CEO Matt Garman at AWS re:Invent 2024. 
 * [2024/9] I am excited to join Amazon AWS AI Labs as an applied scientist.
 * [2024/8] Our team's paper "A Super-human Vision-based Reinforcement Learning Agent for Autonomous Racing in Gran Turismo" received the **Outstanding Paper Award** at the 1st annual Reinforcement Learning Conference (RLC) 2024. 
 * [2024/1] Our paper "Real-time Human Presence Estimation For Indoor Robots" is accepted by 2024 IEEE International Conference on Robotics and Automation (ICRA).
