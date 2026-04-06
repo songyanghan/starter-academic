@@ -83,7 +83,9 @@ I earned my Ph.D. in Computer Science and Engineering from the University of Con
 My current research interests include large language models, artificial general intelligence, reinforcement learning, and generative AI.
 
 ## News
-* [2025/11] Our paper "Empowering Multi-Turn Tool-Integrated Reasoning with Group Turn Policy Optimization" is available on [arxiv](https://arxiv.org/pdf/2511.14846).
+* [2026/04] Our paper "Empowering Multi-Turn Tool-Integrated Reasoning with Group Turn Policy Optimization" is accepted by The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026). Available on [arxiv](https://arxiv.org/pdf/2511.14846).
+* [2026/04] Our paper "CodeScout: Contextual Problem Statement Enhancement for Software Agents" is accepted by The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026). Available on [arxiv](https://arxiv.org/abs/2603.05744).
+* [2026/03] Our paper "ProRL Agent: Rollout-as-a-Service for RL Training of Multi-Turn LLM Agents" is available on [arxiv](https://arxiv.org/abs/2603.18815).    
 * [2025/7] Launched [Kiro IDE](https://kiro.dev), 100k+ users in first 7 days. 
 * [2025/6] Our paper "Multi-Agent Reinforcement Learning Guided by Signal Temporal Logic Specifications" is accepted by 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).
 * [2025/3] Our Amazon Q developer code review agent achieved 85\% precision in offline evaluation, and is now used by 10K+ developers, and flagged 1M+ issues in its first quarter.
