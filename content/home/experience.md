@@ -23,15 +23,25 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
+- title: Research scientist
+  company: NVIDIA
+  company_url: 'https://www.nvidia.com/en-us/'
+  location: Santa Clara, CA, USA
+  date_start: '2025-11-23'
+  date_end: ''
+  description: |2-
+
+      * Vision Language Model; Post training; Agentic AI
+
 - title: Applied scientist
   company: Amazon AWS AI Labs
   company_url: 'https://aws.amazon.com'
   location: Santa Clara, CA, USA
   date_start: '2024-09-06'
-  date_end: ''
+  date_end: '2025-11-21'
   description: |2-
 
-      * Amazon Q Developer, Kiro, and CodeWhisperer; LLMs for Coding. 
+      * Amazon Q Developer, Kiro, and CodeWhisperer; Coding Agent. 
       * 2025: Post-training, reinforcement learning of LLM foundation models, agentic AI, reasoning: Designed and implemented the multi-turn agentic RL recipe, enabling tool-integrated and reasoning across Amazon’s Nova and Kiro models. Kiro, an agentic coding integrated development environment that brings clarity through spec-driven development, with more than 100,000+ developers jumping in during the first days of preview and more than doubling since.
       * 2024: Our project, Amazon Q Developer code review, is announced by AWS CEO Matt Garman at AWS re:Invent 2024. Designed the core functionality of the code review agent. The product achieved 85% precision in offline evaluation, and is now used by 10K+ developers, and flagged 1M+ issues in its first quarter.
 
