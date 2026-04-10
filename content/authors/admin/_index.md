@@ -6,22 +6,24 @@ title: Songyang Han
 superuser: true
 
 # Role/position/tagline
-role: Applied Scientist | Ph.D. | Artificial General Intelligence
+role: Research Scientist | Ph.D. | Artificial General Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Amazon Science
-  url: https://www.amazon.science
+- name: NVIDIA
+  url: https://www.nvidia.com/en-us/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Artificial General Intelligence(AGI), Large Language Model(LLM).
 
 # Interests to show in About widget
 interests:
-- Large Lanaguage Model
+- Vision Language Model
+- Large Language Model
 - Artificial General Intelligence
+- Coding Agent
 - Reinforcement learning
-- Generative AI
+
 # Autonomous driving
 # Computer vision
 # - Game theory
@@ -70,13 +72,13 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "songyanh@amazon.com"
+email: "songyangh@nvidia.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am an Applied Scientist at [Amazon AWS](https://aws.amazon.com) AI Labs, where I work on the post-training of agentic foundation models based on large language models (LLMs). Prior to Amazon, I worked at [Sony AI America](https://ai.sony) with [Prof. Peter Stone](https://www.cs.utexas.edu/~pstone/) and [Peter Wurman](https://www.pwurman.org) on developing a superhuman racing agent [Gran Turismo Sophy](https://www.gran-turismo.com/us/gran-turismo-sophy/) for a highly realistic racing game.
+I am a Research Scientist at NVIDIA working on Vision Language Models (VLMs). I was an Applied Scientist at [Amazon AWS](https://aws.amazon.com) AI Labs, where I worked on the post-training of agentic foundation models based on large language models (LLMs). Prior to Amazon, I worked at [Sony AI America](https://ai.sony) with [Prof. Peter Stone](https://www.cs.utexas.edu/~pstone/) and [Peter Wurman](https://www.pwurman.org) on developing a superhuman racing agent [Gran Turismo Sophy](https://www.gran-turismo.com/us/gran-turismo-sophy/) for a highly realistic racing game.
 
 I earned my Ph.D. in Computer Science and Engineering from the University of Connecticut, where I was advised by [Prof. Fei Miao](http://feimiao.org) and focused on artificial intelligence. Before that, I worked on game theory in the [Dynamic Systems Control Lab](https://sites.ji.sjtu.edu.cn/dsc/) advised by [Prof. Chengbin Ma](https://sites.google.com/view/chbma17/home) at the [University of Michigan–Shanghai Jiao Tong University Joint Institute](https://www.ji.sjtu.edu.cn).  I received my B.E. degree from [Nanjing University](https://www.nju.edu.cn/en/).
 
