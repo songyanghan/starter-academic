@@ -20,7 +20,7 @@ bio: My research interests include Artificial General Intelligence(AGI), Large L
 interests:
 - Vision Language Model
 - Large Language Model
-- Artificial General Intelligence
+- Artificial Super Intelligence
 - Coding Agent
 - Reinforcement learning
 
@@ -82,9 +82,11 @@ I am a Research Scientist at [NVIDIA](https://www.nvidia.com/en-us/) working on 
 
 I earned my Ph.D. in Computer Science and Engineering from the University of Connecticut, where I was advised by [Prof. Fei Miao](http://feimiao.org) and focused on artificial intelligence. Before that, I worked on game theory in the [Dynamic Systems Control Lab](https://sites.ji.sjtu.edu.cn/dsc/) advised by [Prof. Chengbin Ma](https://sites.google.com/view/chbma17/home) at the [University of Michigan–Shanghai Jiao Tong University Joint Institute](https://www.ji.sjtu.edu.cn).  I received my B.E. degree from [Nanjing University](https://www.nju.edu.cn/en/).
 
-My current research interests include large language models, artificial general intelligence, reinforcement learning, and generative AI.
+My current research interests include large language models, artificial super intelligence, reinforcement learning, and video generation.
 
 ## News
+* [2026/06] Our paper "Polar: Agentic RL on Any Harness at Scale" is available on [arxiv](https://arxiv.org/pdf/2605.24220), [code](https://github.com/NVIDIA-NeMo/ProRL-Agent-Server).
+* [2026/06] Our paper "Fast-dDrive: Efficient Block-Diffusion VLM for Autonomous Driving" is available on [arxiv](https://arxiv.org/pdf/2605.23163), [code](https://github.com/NVlabs/Fast-dLLM), [website](https://nvlabs.github.io/Fast-dLLM/fast_ddrive/).
 * [2026/05] Our paper "Low-Rank Adaptation for Critic Learning in Off-Policy Reinforcement Learning" is available on [arxiv](https://arxiv.org/pdf/2604.18978).
 * [2026/04] Our paper "Empowering Multi-Turn Tool-Integrated Reasoning with Group Turn Policy Optimization" is accepted by The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026). Available on [arxiv](https://arxiv.org/pdf/2511.14846).
 * [2026/04] Our paper "CodeScout: Contextual Problem Statement Enhancement for Software Agents" is accepted by The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026). Available on [arxiv](https://arxiv.org/abs/2603.05744).
