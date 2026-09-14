@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-- title: Research scientist
+- title: Senior Research scientist
   company: NVIDIA
   company_url: 'https://www.nvidia.com/en-us/'
   location: Santa Clara, CA, USA
@@ -33,7 +33,7 @@ experience:
 
       * Vision Language Model; Post training; Agentic AI
 
-- title: Applied scientist
+- title: Applied scientist II
   company: Amazon AWS AI Labs
   company_url: 'https://aws.amazon.com'
   location: Santa Clara, CA, USA
