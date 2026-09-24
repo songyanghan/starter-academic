@@ -85,9 +85,9 @@ I earned my Ph.D. in Computer Science and Engineering from the University of Con
 My current research interests include large language models, artificial super intelligence, reinforcement learning, and video generation.
 
 ## News
+* [2026/09] Our paper "Low-Rank Adaptation for Critic Learning in Off-Policy Reinforcement Learning" is accepted by The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026). Available on [arxiv](https://arxiv.org/pdf/2604.18978).
 * [2026/06] Our paper "Polar: Agentic RL on Any Harness at Scale" is available on [arxiv](https://arxiv.org/pdf/2605.24220), [code](https://github.com/NVIDIA-NeMo/ProRL-Agent-Server).
 * [2026/06] Our paper "Fast-dDrive: Efficient Block-Diffusion VLM for Autonomous Driving" is available on [arxiv](https://arxiv.org/pdf/2605.23163), [code](https://github.com/NVlabs/Fast-dLLM), [website](https://nvlabs.github.io/Fast-dLLM/fast_ddrive/).
-* [2026/05] Our paper "Low-Rank Adaptation for Critic Learning in Off-Policy Reinforcement Learning" is available on [arxiv](https://arxiv.org/pdf/2604.18978).
 * [2026/04] Our paper "Empowering Multi-Turn Tool-Integrated Reasoning with Group Turn Policy Optimization" is accepted by The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026). Available on [arxiv](https://arxiv.org/pdf/2511.14846).
 * [2026/04] Our paper "CodeScout: Contextual Problem Statement Enhancement for Software Agents" is accepted by The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026). Available on [arxiv](https://arxiv.org/abs/2603.05744).
 * [2026/03] Our paper "ProRL Agent: Rollout-as-a-Service for RL Training of Multi-Turn LLM Agents" is available on [arxiv](https://arxiv.org/abs/2603.18815).    
